@@ -1,0 +1,7 @@
+C:\Users\tec\source\repos\FastCampus_Sample_CS\038_Operator5\bin\Debug\038_Operator5.exe.config
+C:\Users\tec\source\repos\FastCampus_Sample_CS\038_Operator5\bin\Debug\038_Operator5.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\038_Operator5\bin\Debug\038_Operator5.pdb
+C:\Users\tec\source\repos\FastCampus_Sample_CS\038_Operator5\obj\Debug\038_Operator5.csprojAssemblyReference.cache
+C:\Users\tec\source\repos\FastCampus_Sample_CS\038_Operator5\obj\Debug\038_Operator5.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\FastCampus_Sample_CS\038_Operator5\obj\Debug\038_Operator5.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\038_Operator5\obj\Debug\038_Operator5.pdb

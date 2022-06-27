@@ -1,0 +1,6 @@
+C:\Users\tec\source\repos\FastCampus_Sample_CS\049_Operator_for\bin\Debug\049_Operator_for.exe.config
+C:\Users\tec\source\repos\FastCampus_Sample_CS\049_Operator_for\bin\Debug\049_Operator_for.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\049_Operator_for\bin\Debug\049_Operator_for.pdb
+C:\Users\tec\source\repos\FastCampus_Sample_CS\049_Operator_for\obj\Debug\049_Operator_for.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\FastCampus_Sample_CS\049_Operator_for\obj\Debug\049_Operator_for.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\049_Operator_for\obj\Debug\049_Operator_for.pdb

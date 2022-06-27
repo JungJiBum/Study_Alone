@@ -1,0 +1,7 @@
+C:\Users\tec\source\repos\FastCampus_Sample_CS\074_Array_Clear\bin\Debug\074_Array_Clear.exe.config
+C:\Users\tec\source\repos\FastCampus_Sample_CS\074_Array_Clear\bin\Debug\074_Array_Clear.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\074_Array_Clear\bin\Debug\074_Array_Clear.pdb
+C:\Users\tec\source\repos\FastCampus_Sample_CS\074_Array_Clear\obj\Debug\074_Array_Clear.csprojAssemblyReference.cache
+C:\Users\tec\source\repos\FastCampus_Sample_CS\074_Array_Clear\obj\Debug\074_Array_Clear.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\FastCampus_Sample_CS\074_Array_Clear\obj\Debug\074_Array_Clear.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\074_Array_Clear\obj\Debug\074_Array_Clear.pdb

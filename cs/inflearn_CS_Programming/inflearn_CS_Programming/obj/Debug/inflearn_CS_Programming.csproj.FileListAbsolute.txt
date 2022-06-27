@@ -1,0 +1,6 @@
+C:\Users\tec\source\repos\inflearn_CS_Programming\inflearn_CS_Programming\obj\Debug\inflearn_CS_Programming.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\inflearn_CS_Programming\inflearn_CS_Programming\bin\Debug\inflearn_CS_Programming.exe.config
+C:\Users\tec\source\repos\inflearn_CS_Programming\inflearn_CS_Programming\bin\Debug\inflearn_CS_Programming.exe
+C:\Users\tec\source\repos\inflearn_CS_Programming\inflearn_CS_Programming\bin\Debug\inflearn_CS_Programming.pdb
+C:\Users\tec\source\repos\inflearn_CS_Programming\inflearn_CS_Programming\obj\Debug\inflearn_CS_Programming.exe
+C:\Users\tec\source\repos\inflearn_CS_Programming\inflearn_CS_Programming\obj\Debug\inflearn_CS_Programming.pdb

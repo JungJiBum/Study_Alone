@@ -1,0 +1,6 @@
+C:\Users\tec\source\repos\FastCampus_Sample_CS\004_Check\bin\Debug\004_Check.exe.config
+C:\Users\tec\source\repos\FastCampus_Sample_CS\004_Check\bin\Debug\004_Check.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\004_Check\bin\Debug\004_Check.pdb
+C:\Users\tec\source\repos\FastCampus_Sample_CS\004_Check\obj\Debug\004_Check.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\FastCampus_Sample_CS\004_Check\obj\Debug\004_Check.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\004_Check\obj\Debug\004_Check.pdb

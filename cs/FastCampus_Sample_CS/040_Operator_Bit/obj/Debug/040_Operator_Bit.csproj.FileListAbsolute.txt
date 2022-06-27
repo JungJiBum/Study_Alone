@@ -1,0 +1,7 @@
+C:\Users\tec\source\repos\FastCampus_Sample_CS\040_Operator_Bit\bin\Debug\040_Operator_Bit.exe.config
+C:\Users\tec\source\repos\FastCampus_Sample_CS\040_Operator_Bit\bin\Debug\040_Operator_Bit.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\040_Operator_Bit\bin\Debug\040_Operator_Bit.pdb
+C:\Users\tec\source\repos\FastCampus_Sample_CS\040_Operator_Bit\obj\Debug\040_Operator_Bit.csprojAssemblyReference.cache
+C:\Users\tec\source\repos\FastCampus_Sample_CS\040_Operator_Bit\obj\Debug\040_Operator_Bit.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\FastCampus_Sample_CS\040_Operator_Bit\obj\Debug\040_Operator_Bit.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\040_Operator_Bit\obj\Debug\040_Operator_Bit.pdb

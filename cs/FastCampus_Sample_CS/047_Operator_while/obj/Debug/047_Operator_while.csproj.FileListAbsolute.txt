@@ -1,0 +1,6 @@
+C:\Users\tec\source\repos\FastCampus_Sample_CS\047_Operator_while\bin\Debug\047_Operator_while.exe.config
+C:\Users\tec\source\repos\FastCampus_Sample_CS\047_Operator_while\bin\Debug\047_Operator_while.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\047_Operator_while\bin\Debug\047_Operator_while.pdb
+C:\Users\tec\source\repos\FastCampus_Sample_CS\047_Operator_while\obj\Debug\047_Operator_while.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\FastCampus_Sample_CS\047_Operator_while\obj\Debug\047_Operator_while.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\047_Operator_while\obj\Debug\047_Operator_while.pdb

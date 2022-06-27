@@ -1,0 +1,6 @@
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Loop\bin\Debug\Loop.exe.config
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Loop\bin\Debug\Loop.exe
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Loop\bin\Debug\Loop.pdb
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Loop\obj\Debug\Loop.exe
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Loop\obj\Debug\Loop.pdb

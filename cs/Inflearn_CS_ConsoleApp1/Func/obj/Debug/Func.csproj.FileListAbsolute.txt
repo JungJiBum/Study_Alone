@@ -1,0 +1,7 @@
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Func\bin\Debug\Func.exe.config
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Func\bin\Debug\Func.exe
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Func\bin\Debug\Func.pdb
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Func\obj\Debug\Func.csprojAssemblyReference.cache
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Func\obj\Debug\Func.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Func\obj\Debug\Func.exe
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Func\obj\Debug\Func.pdb

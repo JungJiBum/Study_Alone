@@ -1,0 +1,6 @@
+C:\Users\tec\source\repos\FastCampus_Sample_CS\023_Data_const\bin\Debug\023_Data_const.exe.config
+C:\Users\tec\source\repos\FastCampus_Sample_CS\023_Data_const\bin\Debug\023_Data_const.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\023_Data_const\bin\Debug\023_Data_const.pdb
+C:\Users\tec\source\repos\FastCampus_Sample_CS\023_Data_const\obj\Debug\023_Data_const.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\FastCampus_Sample_CS\023_Data_const\obj\Debug\023_Data_const.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\023_Data_const\obj\Debug\023_Data_const.pdb

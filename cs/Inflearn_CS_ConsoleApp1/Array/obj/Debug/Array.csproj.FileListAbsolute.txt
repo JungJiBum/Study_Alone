@@ -1,0 +1,7 @@
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Array\bin\Debug\Array.exe.config
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Array\bin\Debug\Array.exe
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Array\bin\Debug\Array.pdb
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Array\obj\Debug\Array.exe
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Array\obj\Debug\Array.pdb
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Array\obj\Debug\Array.csprojAssemblyReference.cache

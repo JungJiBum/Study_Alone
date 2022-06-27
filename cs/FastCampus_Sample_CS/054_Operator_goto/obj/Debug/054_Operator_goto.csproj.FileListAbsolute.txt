@@ -1,0 +1,7 @@
+C:\Users\tec\source\repos\FastCampus_Sample_CS\054_Operator_goto\bin\Debug\054_Operator_goto.exe.config
+C:\Users\tec\source\repos\FastCampus_Sample_CS\054_Operator_goto\bin\Debug\054_Operator_goto.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\054_Operator_goto\bin\Debug\054_Operator_goto.pdb
+C:\Users\tec\source\repos\FastCampus_Sample_CS\054_Operator_goto\obj\Debug\054_Operator_goto.csprojAssemblyReference.cache
+C:\Users\tec\source\repos\FastCampus_Sample_CS\054_Operator_goto\obj\Debug\054_Operator_goto.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\FastCampus_Sample_CS\054_Operator_goto\obj\Debug\054_Operator_goto.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\054_Operator_goto\obj\Debug\054_Operator_goto.pdb

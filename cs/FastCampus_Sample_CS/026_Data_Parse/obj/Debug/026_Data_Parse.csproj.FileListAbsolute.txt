@@ -1,0 +1,7 @@
+C:\Users\tec\source\repos\FastCampus_Sample_CS\026_Data_Parse\bin\Debug\026_Data_Parse.exe.config
+C:\Users\tec\source\repos\FastCampus_Sample_CS\026_Data_Parse\bin\Debug\026_Data_Parse.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\026_Data_Parse\bin\Debug\026_Data_Parse.pdb
+C:\Users\tec\source\repos\FastCampus_Sample_CS\026_Data_Parse\obj\Debug\026_Data_Parse.csprojAssemblyReference.cache
+C:\Users\tec\source\repos\FastCampus_Sample_CS\026_Data_Parse\obj\Debug\026_Data_Parse.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\FastCampus_Sample_CS\026_Data_Parse\obj\Debug\026_Data_Parse.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\026_Data_Parse\obj\Debug\026_Data_Parse.pdb

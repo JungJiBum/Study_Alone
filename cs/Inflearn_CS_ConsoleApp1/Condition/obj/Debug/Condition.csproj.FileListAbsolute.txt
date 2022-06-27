@@ -1,0 +1,7 @@
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Condition\bin\Debug\Condition.exe.config
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Condition\bin\Debug\Condition.exe
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Condition\bin\Debug\Condition.pdb
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Condition\obj\Debug\Condition.csprojAssemblyReference.cache
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Condition\obj\Debug\Condition.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Condition\obj\Debug\Condition.exe
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Condition\obj\Debug\Condition.pdb

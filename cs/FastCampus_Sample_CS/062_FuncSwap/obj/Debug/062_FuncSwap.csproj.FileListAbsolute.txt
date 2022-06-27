@@ -1,0 +1,7 @@
+C:\Users\tec\source\repos\FastCampus_Sample_CS\062_FuncSwap\bin\Debug\062_FuncSwap.exe.config
+C:\Users\tec\source\repos\FastCampus_Sample_CS\062_FuncSwap\bin\Debug\062_FuncSwap.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\062_FuncSwap\bin\Debug\062_FuncSwap.pdb
+C:\Users\tec\source\repos\FastCampus_Sample_CS\062_FuncSwap\obj\Debug\062_FuncSwap.csprojAssemblyReference.cache
+C:\Users\tec\source\repos\FastCampus_Sample_CS\062_FuncSwap\obj\Debug\062_FuncSwap.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\FastCampus_Sample_CS\062_FuncSwap\obj\Debug\062_FuncSwap.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\062_FuncSwap\obj\Debug\062_FuncSwap.pdb

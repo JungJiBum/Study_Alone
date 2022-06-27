@@ -1,0 +1,6 @@
+C:\Users\tec\source\repos\FastCampus_Sample_CS\018_Data_object\bin\Debug\018_Data_object.exe.config
+C:\Users\tec\source\repos\FastCampus_Sample_CS\018_Data_object\bin\Debug\018_Data_object.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\018_Data_object\bin\Debug\018_Data_object.pdb
+C:\Users\tec\source\repos\FastCampus_Sample_CS\018_Data_object\obj\Debug\018_Data_object.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\FastCampus_Sample_CS\018_Data_object\obj\Debug\018_Data_object.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\018_Data_object\obj\Debug\018_Data_object.pdb

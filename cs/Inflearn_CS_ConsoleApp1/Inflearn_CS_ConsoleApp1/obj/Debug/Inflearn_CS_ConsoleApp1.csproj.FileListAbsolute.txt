@@ -1,0 +1,7 @@
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Inflearn_CS_ConsoleApp1\bin\Debug\Inflearn_CS_ConsoleApp1.exe.config
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Inflearn_CS_ConsoleApp1\bin\Debug\Inflearn_CS_ConsoleApp1.exe
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Inflearn_CS_ConsoleApp1\bin\Debug\Inflearn_CS_ConsoleApp1.pdb
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Inflearn_CS_ConsoleApp1\obj\Debug\Inflearn_CS_ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Inflearn_CS_ConsoleApp1\obj\Debug\Inflearn_CS_ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Inflearn_CS_ConsoleApp1\obj\Debug\Inflearn_CS_ConsoleApp1.exe
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Inflearn_CS_ConsoleApp1\obj\Debug\Inflearn_CS_ConsoleApp1.pdb

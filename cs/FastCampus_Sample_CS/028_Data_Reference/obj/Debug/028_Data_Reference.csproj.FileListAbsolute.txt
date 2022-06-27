@@ -1,0 +1,6 @@
+C:\Users\tec\source\repos\FastCampus_Sample_CS\028_Data_Reference\bin\Debug\028_Data_Reference.exe.config
+C:\Users\tec\source\repos\FastCampus_Sample_CS\028_Data_Reference\bin\Debug\028_Data_Reference.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\028_Data_Reference\bin\Debug\028_Data_Reference.pdb
+C:\Users\tec\source\repos\FastCampus_Sample_CS\028_Data_Reference\obj\Debug\028_Data_Reference.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\FastCampus_Sample_CS\028_Data_Reference\obj\Debug\028_Data_Reference.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\028_Data_Reference\obj\Debug\028_Data_Reference.pdb

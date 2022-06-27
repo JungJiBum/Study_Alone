@@ -1,0 +1,6 @@
+C:\Users\tec\source\repos\FastCampus_Sample_CS\069_Array_Multi\bin\Debug\069_Array_Multi.exe.config
+C:\Users\tec\source\repos\FastCampus_Sample_CS\069_Array_Multi\bin\Debug\069_Array_Multi.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\069_Array_Multi\bin\Debug\069_Array_Multi.pdb
+C:\Users\tec\source\repos\FastCampus_Sample_CS\069_Array_Multi\obj\Debug\069_Array_Multi.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\FastCampus_Sample_CS\069_Array_Multi\obj\Debug\069_Array_Multi.exe
+C:\Users\tec\source\repos\FastCampus_Sample_CS\069_Array_Multi\obj\Debug\069_Array_Multi.pdb

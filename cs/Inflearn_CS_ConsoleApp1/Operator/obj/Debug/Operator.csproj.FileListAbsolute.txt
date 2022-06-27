@@ -1,0 +1,6 @@
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Operator\bin\Debug\Operator.exe.config
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Operator\bin\Debug\Operator.exe
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Operator\bin\Debug\Operator.pdb
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Operator\obj\Debug\Operator.csproj.CoreCompileInputs.cache
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Operator\obj\Debug\Operator.exe
+C:\Users\tec\source\repos\Inflearn_CS_ConsoleApp1\Operator\obj\Debug\Operator.pdb
