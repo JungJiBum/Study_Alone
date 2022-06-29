@@ -12,6 +12,7 @@ namespace AnimalShelter
 {
     public partial class Form1 : Form
     {
+        public Customer Cus1;
         public Form1()
         {
             InitializeComponent();
@@ -19,16 +20,19 @@ namespace AnimalShelter
         private void CreateCustomer_Click(object sender, EventArgs e)
         {
 
-            Customer cus = new Customer("Ian", "Na", new DateTime(2000, 1, 1));
-            cus.Address = "123 willshire Blvd.";
+            Cus1 = new Customer(CusNewFirstName.Text,CusNewLastName.Text,
+                                                DateTime.Parse(CusNewBirthday.Text));
+            Cus1.Address = CusNewAddress.Text;
+            Cus1.Description = CusNewDescription.Text;
+            
+            CusFullName.Text = Cus1.FullName;
+            CusAge.Text = Cus1.Age.ToString();
+            CusAddress.Text = Cus1.Address;
+            CusDescription.Text = Cus1.Description;
+            CusIsQualified.Text = Cus1.IsQualified.ToString();
+            bool test = Cus1.IsQualified;
+       }
+        
 
-            CusFullName.Text = cus.FullName;
-            CusAge.Text = cus.Age.ToString();
-            CusAddress.Text = cus.Address;
-            CusDescription.Text = cus.Description;
-
-            bool test = cus.IsQualified;
-
-        }
     }
 }
