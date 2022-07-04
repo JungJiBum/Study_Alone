@@ -52,6 +52,7 @@ namespace AnimalShelter
             this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.CustomerList = new System.Windows.Forms.ListBox();
             this.CusDetailPanel.SuspendLayout();
             this.f.SuspendLayout();
             this.SuspendLayout();
@@ -78,9 +79,9 @@ namespace AnimalShelter
             this.CusDetailPanel.Controls.Add(this.label4);
             this.CusDetailPanel.Controls.Add(this.CusFullName);
             this.CusDetailPanel.Controls.Add(this.label3);
-            this.CusDetailPanel.Location = new System.Drawing.Point(383, 12);
+            this.CusDetailPanel.Location = new System.Drawing.Point(481, 12);
             this.CusDetailPanel.Name = "CusDetailPanel";
-            this.CusDetailPanel.Size = new System.Drawing.Size(299, 403);
+            this.CusDetailPanel.Size = new System.Drawing.Size(201, 403);
             this.CusDetailPanel.TabIndex = 1;
             // 
             // CusIsQualified
@@ -186,9 +187,9 @@ namespace AnimalShelter
             this.f.Controls.Add(this.label8);
             this.f.Controls.Add(this.label7);
             this.f.Controls.Add(this.label1);
-            this.f.Location = new System.Drawing.Point(12, 12);
+            this.f.Location = new System.Drawing.Point(137, 12);
             this.f.Name = "f";
-            this.f.Size = new System.Drawing.Size(351, 403);
+            this.f.Size = new System.Drawing.Size(332, 403);
             this.f.TabIndex = 2;
             // 
             // CusNewDescription
@@ -272,11 +273,22 @@ namespace AnimalShelter
             this.label1.TabIndex = 0;
             this.label1.Text = "성 :";
             // 
+            // CustomerList
+            // 
+            this.CustomerList.FormattingEnabled = true;
+            this.CustomerList.ItemHeight = 15;
+            this.CustomerList.Location = new System.Drawing.Point(11, 29);
+            this.CustomerList.Name = "CustomerList";
+            this.CustomerList.Size = new System.Drawing.Size(120, 154);
+            this.CustomerList.TabIndex = 3;
+            this.CustomerList.Click += new System.EventHandler(this.CustomerList_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(694, 427);
+            this.Controls.Add(this.CustomerList);
             this.Controls.Add(this.f);
             this.Controls.Add(this.CusDetailPanel);
             this.Name = "Form1";
@@ -315,6 +327,7 @@ namespace AnimalShelter
         private System.Windows.Forms.TextBox CusNewBirthday;
         private System.Windows.Forms.TextBox CusNewFirstName;
         private System.Windows.Forms.TextBox CusNewLastName;
+        private System.Windows.Forms.ListBox CustomerList;
     }
 }
 
