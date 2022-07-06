@@ -73,5 +73,65 @@ print(person1)
 #     num+=1
 
 #[8] 영어점수를 오름 차순 출력
-eng_scores= [100,40,70,90,60]
+# eng_scores= [100,40,70,90,60]
+# print(eng_scores)
+# eng_scores.sort(reverse=True)
+# print(eng_scores)
+# print(sorted(eng_scores))
+
+# for i in range(len(eng_scores)):
+#     print(eng_scores[i], end="\t")
+# print()
+
+#[9] 역 인덱스 사용하여 영어 점수를 오름 / 내림 차순으로 출력
+# '''점수'''
+# eng_scores = [100, 40, 70, 90, 60]
+# '''정렬->sort/sorted'''
+# eng_scores.sort(reverse=True)
+
+# for i in range(-5, 0):
+#     print(eng_scores[i],'(',i,')',end="\t")
+
+#[10]리스트에 새 영어 점수 추가
+# eng_scores = [90, 60, 75, 100, 88]
+# print(f"원본 : {eng_scores}")
+# eng_scores.append(99)
+# print(f"추가 : {eng_scores}")
+# # eng_scores[5] = 37
+# eng_scores[-1] = 37
+# print(f"수정 : {eng_scores}")
+# # eng_scores.remove(37)
+# del eng_scores[-1]
+# print(f"삭제 : {eng_scores}")
+
+#[11] 2개의 리스트 하나로 합치기
+# a=[0,1,2,3,4]
+# b=[5,6,7,8,9]
+# c = a+b
+# print(f"a+b 병합 리스트 : {c} {len(c)}개 요소")
+# d = a*3
+# print(f"a*3 병합 리스트 : {d},{len(d)}개 요소")
+
+#[12] 동물의 케이지를 찾아서 출력
+# animals=['elephant','hippo','lion','tiger','alligator']
+# que = input("케이지를 알고 싶은 동물의 이름을 입력하세요 : ")
+# for i in range(len(animals)):
+#     if que == animals[i]:
+#         print(f"{que} 동물의 케이지는 {i}번 위치에 있습니다.")
+
+# ani_name = input("케이지를 알고 싶은 동물의 이름을 입력하세요 : ")
+# ani_index = animals.index(ani_name)
+# print(f"{ani_name} 동물의 케이지는 {ani_index}번 위치에 있습니다. {ani_index}번 케이지 약도를 출력하시겠습니까?")
+
+#[13] 리스트에 들어있는 동물 중 중복 제거
+# lst = ['dog','hippo','elephant','lion','tiger','alligator','hippo','lion']
+# print(set(lst),type(lst))
+
+#[14] 자료구조에 접근시 에러 나는것과 이유
+# a=['dog','hippo','elephant','lion','tiger','alligator','hippo','lion']
+# print('[1] lion 출력하기 :',a[3])
+
+# b = set(a)
+# print(b)
+# print('[2] lion 출력하기 :',b[3])
 
