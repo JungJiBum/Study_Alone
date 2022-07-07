@@ -78,8 +78,9 @@
 a = [i,j for i in range(3) for j in range(3)]
 중첨 이중 for 문에 대한 사용법과 진행 순서
 '''
-a = [i for i in range(3) for j in range(5)]
+# a = [i for i in range(3) for j in range(5)]
+# print(a)
+
+a = [i*j for i in range(2,10) for j in range(1,10)]
 print(a)
 
-a = [(i,j) for i in range(3) for j in range(5)]
-print(a)
