@@ -41,7 +41,7 @@ namespace AnimalShelter
             this.label4 = new System.Windows.Forms.Label();
             this.CusFullName = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.f = new System.Windows.Forms.Panel();
+            this.CusNewPanel = new System.Windows.Forms.Panel();
             this.CusNewDescription = new System.Windows.Forms.TextBox();
             this.CusNewAddress = new System.Windows.Forms.TextBox();
             this.CusNewBirthday = new System.Windows.Forms.TextBox();
@@ -52,10 +52,18 @@ namespace AnimalShelter
             this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.CustomerList = new System.Windows.Forms.ListBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.CusListPanel = new System.Windows.Forms.Panel();
+            this.CusList = new System.Windows.Forms.DataGridView();
+            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.CusDetailPanel.SuspendLayout();
-            this.f.SuspendLayout();
+            this.CusNewPanel.SuspendLayout();
+            this.CusListPanel.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.CusList)).BeginInit();
+            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // CreateCustomer
@@ -80,7 +88,7 @@ namespace AnimalShelter
             this.CusDetailPanel.Controls.Add(this.label4);
             this.CusDetailPanel.Controls.Add(this.CusFullName);
             this.CusDetailPanel.Controls.Add(this.label3);
-            this.CusDetailPanel.Location = new System.Drawing.Point(481, 12);
+            this.CusDetailPanel.Location = new System.Drawing.Point(792, 97);
             this.CusDetailPanel.Name = "CusDetailPanel";
             this.CusDetailPanel.Size = new System.Drawing.Size(201, 403);
             this.CusDetailPanel.TabIndex = 1;
@@ -175,23 +183,24 @@ namespace AnimalShelter
             this.label3.TabIndex = 2;
             this.label3.Text = "이름 :";
             // 
-            // f
+            // CusNewPanel
             // 
-            this.f.Controls.Add(this.CusNewDescription);
-            this.f.Controls.Add(this.CusNewAddress);
-            this.f.Controls.Add(this.CreateCustomer);
-            this.f.Controls.Add(this.CusNewBirthday);
-            this.f.Controls.Add(this.CusNewFirstName);
-            this.f.Controls.Add(this.CusNewLastName);
-            this.f.Controls.Add(this.label10);
-            this.f.Controls.Add(this.label9);
-            this.f.Controls.Add(this.label8);
-            this.f.Controls.Add(this.label7);
-            this.f.Controls.Add(this.label1);
-            this.f.Location = new System.Drawing.Point(137, 12);
-            this.f.Name = "f";
-            this.f.Size = new System.Drawing.Size(332, 403);
-            this.f.TabIndex = 2;
+            this.CusNewPanel.Controls.Add(this.CusNewDescription);
+            this.CusNewPanel.Controls.Add(this.CusNewAddress);
+            this.CusNewPanel.Controls.Add(this.CreateCustomer);
+            this.CusNewPanel.Controls.Add(this.CusNewBirthday);
+            this.CusNewPanel.Controls.Add(this.CusNewFirstName);
+            this.CusNewPanel.Controls.Add(this.CusNewLastName);
+            this.CusNewPanel.Controls.Add(this.label10);
+            this.CusNewPanel.Controls.Add(this.label9);
+            this.CusNewPanel.Controls.Add(this.label8);
+            this.CusNewPanel.Controls.Add(this.label7);
+            this.CusNewPanel.Controls.Add(this.label1);
+            this.CusNewPanel.Location = new System.Drawing.Point(427, 97);
+            this.CusNewPanel.Name = "CusNewPanel";
+            this.CusNewPanel.Size = new System.Drawing.Size(332, 403);
+            this.CusNewPanel.TabIndex = 2;
+            this.CusNewPanel.Visible = false;
             // 
             // CusNewDescription
             // 
@@ -274,42 +283,90 @@ namespace AnimalShelter
             this.label1.TabIndex = 0;
             this.label1.Text = "성 :";
             // 
-            // CustomerList
+            // CusListPanel
             // 
-            this.CustomerList.FormattingEnabled = true;
-            this.CustomerList.ItemHeight = 15;
-            this.CustomerList.Location = new System.Drawing.Point(11, 29);
-            this.CustomerList.Name = "CustomerList";
-            this.CustomerList.Size = new System.Drawing.Size(120, 154);
-            this.CustomerList.TabIndex = 3;
-            this.CustomerList.Click += new System.EventHandler(this.CustomerList_Click);
+            this.CusListPanel.Controls.Add(this.CusList);
+            this.CusListPanel.Location = new System.Drawing.Point(12, 97);
+            this.CusListPanel.Name = "CusListPanel";
+            this.CusListPanel.Size = new System.Drawing.Size(409, 431);
+            this.CusListPanel.TabIndex = 3;
             // 
-            // button1
+            // CusList
             // 
-            this.button1.Location = new System.Drawing.Point(23, 264);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(82, 29);
-            this.button1.TabIndex = 4;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.CusList.AllowUserToAddRows = false;
+            this.CusList.AllowUserToDeleteRows = false;
+            this.CusList.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.CusList.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.Column1,
+            this.Column2,
+            this.Column3});
+            this.CusList.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.CusList.EditMode = System.Windows.Forms.DataGridViewEditMode.EditProgrammatically;
+            this.CusList.Location = new System.Drawing.Point(0, 0);
+            this.CusList.MultiSelect = false;
+            this.CusList.Name = "CusList";
+            this.CusList.RowTemplate.Height = 25;
+            this.CusList.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.CusList.Size = new System.Drawing.Size(409, 431);
+            this.CusList.TabIndex = 0;
+            this.CusList.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.CusList_CellClick);
+            // 
+            // Column1
+            // 
+            this.Column1.HeaderText = "이름";
+            this.Column1.Name = "Column1";
+            // 
+            // Column2
+            // 
+            this.Column2.HeaderText = "나이";
+            this.Column2.Name = "Column2";
+            // 
+            // Column3
+            // 
+            this.Column3.HeaderText = "입양가능?";
+            this.Column3.Name = "Column3";
+            // 
+            // menuStrip1
+            // 
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.toolStripMenuItem1});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(1022, 24);
+            this.menuStrip1.TabIndex = 4;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // toolStripMenuItem1
+            // 
+            this.toolStripMenuItem1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
+            this.toolStripMenuItem1.Name = "toolStripMenuItem1";
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(71, 20);
+            this.toolStripMenuItem1.Text = "새 입양자";
+            this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(694, 427);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.CustomerList);
-            this.Controls.Add(this.f);
+            this.ClientSize = new System.Drawing.Size(1022, 550);
             this.Controls.Add(this.CusDetailPanel);
+            this.Controls.Add(this.CusNewPanel);
+            this.Controls.Add(this.CusListPanel);
+            this.Controls.Add(this.menuStrip1);
+            this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.CusDetailPanel.ResumeLayout(false);
             this.CusDetailPanel.PerformLayout();
-            this.f.ResumeLayout(false);
-            this.f.PerformLayout();
+            this.CusNewPanel.ResumeLayout(false);
+            this.CusNewPanel.PerformLayout();
+            this.CusListPanel.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.CusList)).EndInit();
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -328,7 +385,7 @@ namespace AnimalShelter
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label CusIsQualified;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Panel f;
+        private System.Windows.Forms.Panel CusNewPanel;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label8;
@@ -339,8 +396,13 @@ namespace AnimalShelter
         private System.Windows.Forms.TextBox CusNewBirthday;
         private System.Windows.Forms.TextBox CusNewFirstName;
         private System.Windows.Forms.TextBox CusNewLastName;
-        private System.Windows.Forms.ListBox CustomerList;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Panel CusListPanel;
+        private System.Windows.Forms.DataGridView CusList;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem1;
     }
 }
 
