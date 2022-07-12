@@ -53,6 +53,7 @@ namespace AnimalShelter
             this.label7 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.CustomerList = new System.Windows.Forms.ListBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.CusDetailPanel.SuspendLayout();
             this.f.SuspendLayout();
             this.SuspendLayout();
@@ -283,11 +284,22 @@ namespace AnimalShelter
             this.CustomerList.TabIndex = 3;
             this.CustomerList.Click += new System.EventHandler(this.CustomerList_Click);
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(23, 264);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(82, 29);
+            this.button1.TabIndex = 4;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(694, 427);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.CustomerList);
             this.Controls.Add(this.f);
             this.Controls.Add(this.CusDetailPanel);
@@ -328,6 +340,7 @@ namespace AnimalShelter
         private System.Windows.Forms.TextBox CusNewFirstName;
         private System.Windows.Forms.TextBox CusNewLastName;
         private System.Windows.Forms.ListBox CustomerList;
+        private System.Windows.Forms.Button button1;
     }
 }
 
