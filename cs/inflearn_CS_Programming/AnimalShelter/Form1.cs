@@ -28,7 +28,13 @@ namespace AnimalShelter
             CusList.Rows.Add(cus.FirstName, cus.Age, CusIsQualified);
 
             Customers.Add(cus);
-            
+
+            CusNewFirstName.Text = "";
+            CusNewLastName.Text = "";
+            CusNewBirthday.Text = "";
+            CusNewAddress.Text = "";
+            CusNewDescription.Text = "";
+
         }
 
         public void ShowDetails(Customer cus)
@@ -54,6 +60,8 @@ namespace AnimalShelter
                     break;
                 }
             }
+            CusDetailPanel.Show();
+            CusNewPanel.Hide();
         }
 
         private void Form1_Load(object sender, EventArgs e)
