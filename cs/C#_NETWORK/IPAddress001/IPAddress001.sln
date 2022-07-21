@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPAddress001", "IPAddress001.csproj", "{ACD9735C-898B-4B3E-8F36-6B1FB0FF073F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dns01", "..\Dns01\Dns01.csproj", "{6D61B654-4974-41D3-A6D7-03E13670EE22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPHostEntry01", "..\IPHostEntry01\IPHostEntry01.csproj", "{8A71455A-9B59-4A2B-A4AD-FBCFC50C20C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPEndPoint01", "..\IPEndPoint01\IPEndPoint01.csproj", "{914C3A56-9359-49CE-8B1D-EF4AAD214CB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpListener01", "..\TcpListener01\TcpListener01.csproj", "{0F10DA3C-8144-4048-AE38-6CB7F6285D1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccetTcpClient01", "..\AccetTcpClient01\AccetTcpClient01.csproj", "{E9924441-B799-4D34-A58F-922023B57D40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACD9735C-898B-4B3E-8F36-6B1FB0FF073F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD9735C-898B-4B3E-8F36-6B1FB0FF073F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD9735C-898B-4B3E-8F36-6B1FB0FF073F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD9735C-898B-4B3E-8F36-6B1FB0FF073F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D61B654-4974-41D3-A6D7-03E13670EE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D61B654-4974-41D3-A6D7-03E13670EE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D61B654-4974-41D3-A6D7-03E13670EE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D61B654-4974-41D3-A6D7-03E13670EE22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A71455A-9B59-4A2B-A4AD-FBCFC50C20C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A71455A-9B59-4A2B-A4AD-FBCFC50C20C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A71455A-9B59-4A2B-A4AD-FBCFC50C20C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A71455A-9B59-4A2B-A4AD-FBCFC50C20C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{914C3A56-9359-49CE-8B1D-EF4AAD214CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{914C3A56-9359-49CE-8B1D-EF4AAD214CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{914C3A56-9359-49CE-8B1D-EF4AAD214CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{914C3A56-9359-49CE-8B1D-EF4AAD214CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F10DA3C-8144-4048-AE38-6CB7F6285D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F10DA3C-8144-4048-AE38-6CB7F6285D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F10DA3C-8144-4048-AE38-6CB7F6285D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F10DA3C-8144-4048-AE38-6CB7F6285D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9924441-B799-4D34-A58F-922023B57D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9924441-B799-4D34-A58F-922023B57D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9924441-B799-4D34-A58F-922023B57D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9924441-B799-4D34-A58F-922023B57D40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A66A03C6-2638-4ADC-A762-11CBF971BD4F}
+	EndGlobalSection
+EndGlobal

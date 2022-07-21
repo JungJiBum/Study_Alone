@@ -1,0 +1,16 @@
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\IPHostEntry01\bin\Debug\net5.0\IPHostEntry01.exe
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\IPHostEntry01\bin\Debug\net5.0\IPHostEntry01.deps.json
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\IPHostEntry01\bin\Debug\net5.0\IPHostEntry01.runtimeconfig.json
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\IPHostEntry01\bin\Debug\net5.0\IPHostEntry01.runtimeconfig.dev.json
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\IPHostEntry01\bin\Debug\net5.0\IPHostEntry01.dll
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\IPHostEntry01\bin\Debug\net5.0\ref\IPHostEntry01.dll
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\IPHostEntry01\bin\Debug\net5.0\IPHostEntry01.pdb
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\IPHostEntry01\obj\Debug\net5.0\IPHostEntry01.csprojAssemblyReference.cache
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\IPHostEntry01\obj\Debug\net5.0\IPHostEntry01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\IPHostEntry01\obj\Debug\net5.0\IPHostEntry01.AssemblyInfoInputs.cache
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\IPHostEntry01\obj\Debug\net5.0\IPHostEntry01.AssemblyInfo.cs
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\IPHostEntry01\obj\Debug\net5.0\IPHostEntry01.csproj.CoreCompileInputs.cache
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\IPHostEntry01\obj\Debug\net5.0\IPHostEntry01.dll
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\IPHostEntry01\obj\Debug\net5.0\ref\IPHostEntry01.dll
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\IPHostEntry01\obj\Debug\net5.0\IPHostEntry01.pdb
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\IPHostEntry01\obj\Debug\net5.0\IPHostEntry01.genruntimeconfig.cache

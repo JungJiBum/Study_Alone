@@ -1,0 +1,16 @@
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\Dns01\bin\Debug\net5.0\Dns01.exe
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\Dns01\bin\Debug\net5.0\Dns01.deps.json
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\Dns01\bin\Debug\net5.0\Dns01.runtimeconfig.json
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\Dns01\bin\Debug\net5.0\Dns01.runtimeconfig.dev.json
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\Dns01\bin\Debug\net5.0\Dns01.dll
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\Dns01\bin\Debug\net5.0\ref\Dns01.dll
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\Dns01\bin\Debug\net5.0\Dns01.pdb
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\Dns01\obj\Debug\net5.0\Dns01.csprojAssemblyReference.cache
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\Dns01\obj\Debug\net5.0\Dns01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\Dns01\obj\Debug\net5.0\Dns01.AssemblyInfoInputs.cache
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\Dns01\obj\Debug\net5.0\Dns01.AssemblyInfo.cs
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\Dns01\obj\Debug\net5.0\Dns01.csproj.CoreCompileInputs.cache
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\Dns01\obj\Debug\net5.0\Dns01.dll
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\Dns01\obj\Debug\net5.0\ref\Dns01.dll
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\Dns01\obj\Debug\net5.0\Dns01.pdb
+C:\Users\tec\Desktop\Language_Study\cs\C#_NETWORK\Dns01\obj\Debug\net5.0\Dns01.genruntimeconfig.cache

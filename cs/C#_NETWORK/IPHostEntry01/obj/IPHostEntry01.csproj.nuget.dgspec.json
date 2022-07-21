@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tec\\Desktop\\Language_Study\\cs\\C#_NETWORK\\IPHostEntry01\\IPHostEntry01.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tec\\Desktop\\Language_Study\\cs\\C#_NETWORK\\IPHostEntry01\\IPHostEntry01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tec\\Desktop\\Language_Study\\cs\\C#_NETWORK\\IPHostEntry01\\IPHostEntry01.csproj",
+        "projectName": "IPHostEntry01",
+        "projectPath": "C:\\Users\\tec\\Desktop\\Language_Study\\cs\\C#_NETWORK\\IPHostEntry01\\IPHostEntry01.csproj",
+        "packagesPath": "C:\\Users\\tec\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tec\\Desktop\\Language_Study\\cs\\C#_NETWORK\\IPHostEntry01\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
