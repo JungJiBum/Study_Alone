@@ -40,7 +40,7 @@
 #         tmp = []
 #         for j in range(c):
 #             tmp.append((i,j))
-#         ans.append(tmp)
+#         ans.append(tmp) 
 #     #최종 결과 리턴
 
 #     #(2,4)위치에 alligator 입력하기
