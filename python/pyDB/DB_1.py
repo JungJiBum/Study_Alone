@@ -41,15 +41,34 @@ class DB_CONNECT:
         # STEP 5 DB 연결 종료
         con.close()
         print("연결종료")
+    
+    # 테이블 생성
+    def create_tbl(self):
+        con = pymysql.connect(host = self.host,
+        user=self.username,
+        password=self.password,
+        db=self.database,
+        charset='utf8',
+        cursorclass=pymysql.cursors.DictCursor)
+
+        cur = con.cursor()
+        sql = "create table User_INFO("\
+            "Name varchar(10),"\
+            "Age int,"\
+            "Address varchar(20))"
+        cur.execute(sql)
+        con.commit()
+        con.close()
 
 
 
 
-IP = input("입력 주소 ? : ")
-DB = input("DB 명 ? : ")
-users = input("user명 ? : ")
-pw = input("pw ? : ")
+IP = input("입력 주소 ? : ") 
+DB = input("DB 명 ? : ") 
+users = input("user명 ? : ") 
+pw = input("pw ? : ") 
 
 test = DB_CONNECT(IP,DB,users,pw)
 test.print_info()
 test.connect_db()
+# test.create_tbl() 테이블 생성
